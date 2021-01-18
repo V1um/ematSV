@@ -1,0 +1,31 @@
+METODE 1:
+	AUTOMATISK - logger ind, åbner det ny side med svaret, ikke mere
+ 	(Råd: Brug metode 2, meget nemmere) DETTE VIRKER KUN MED "SENDTE TRÆNINGSOPGAVER"
+
+Download Python/Python needed:
+https://www.python.org/downloads/ og husk under installationen "Add python version to PATH"
+
+Åben cmd og indæt:
+pip install selenium
+pip install webdriver-manager
+(luk cmd)
+
+Åben/redigere ematSV.py og gå ned og skriv id'et til den opgave du vil have svar fra.
+
+Kør ematSV.py
+
+færdig
+
+METODE 2:
+	MANUELT - DETTE VIRKER KUN MED "SENDTE TRÆNINGSOPGAVER"
+
+Gå ind i din opgave. Du skal have startet opgaven.
+
+Åben følgene link på ny side/tab: https://emat1.dk/resultat.aspx
+
+Kopier svar til den anden side. 
+
+MEGET VIGTIGT DU IKKE BARE LUKKER BEGGE SIDER NED, FORDI SÅ TÆLLER OPGAVEN SOM 0% RIGTIGE.
+
+færdig
+
